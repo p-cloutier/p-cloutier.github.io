@@ -1,3 +1,10 @@
+.jonction {
+padding-top: 19.5px;
+padding-bottom: 19.5px;
+line-height: 21px;
+}
+
+
 /*!
  * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -176,7 +183,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
     color: #{{ site.color.primary }};
 }
 
@@ -299,8 +306,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 250px;
+        padding-bottom: 250px;
     }
 
     header .intro-text .intro-lead-in {
@@ -315,7 +322,7 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
+        font-size: 48px;
         font-weight: 700;
         line-height: 75px;
     }
