@@ -13,6 +13,9 @@ line-height: 21px;
 color: rgb(0, 128, 256);
 }
 
+.modal-body h3 {
+	text-align: left;
+}
 
 @media(min-width:768px) {
     #nav-et {
