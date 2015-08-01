@@ -319,9 +319,9 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
+    font-size: 32px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 32px;
 }
 
 @media(min-width:768px) {
@@ -342,9 +342,9 @@ header .intro-text .intro-heading {
         margin-bottom: 350px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 48px;
+        font-size: 36px;
         font-weight: 700;
-        line-height: 75px;
+        line-height: 36px;
     }
 }
 
