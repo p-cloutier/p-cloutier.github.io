@@ -353,6 +353,8 @@ section {
 }
 
 section h2.section-heading {
+    font-family: Rancho;
+    text-transform: inherit;
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
