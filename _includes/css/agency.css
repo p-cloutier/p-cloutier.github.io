@@ -203,8 +203,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
 	text-transform: uppercase;
-    font-family: "Oswald","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    font-family: Oswald,"Helvetica Neue",Helvetica,Arial,cursive;
+    color: white;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -291,7 +291,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #0253cc;
+    color: white;
     background-attachment: scroll;
     background-image: url(../img/fond.jpg);
     background-position: center center;
@@ -339,7 +339,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 350px;
+        margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 36px;
@@ -353,7 +353,7 @@ section {
 }
 
 section h2.section-heading {
-    font-family: Rancho;
+    font-family: Oswald;
     text-transform: inherit;
     margin-top: 0;
     margin-bottom: 15px;
